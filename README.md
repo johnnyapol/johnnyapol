@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-- 🔭  Firmware Engineering Intern @ Western Digital
+- 🔭  Firmware Technician @ Western Digital
 - 🎮  Developer & System Adminstrator @ https://torn.space
 - 🌱  Computer Science & Economics student @ Rensselaer Polytechnic Institute (RPI)
 - 👯  Fluent in Python, C, C++, Java, and Javascript
