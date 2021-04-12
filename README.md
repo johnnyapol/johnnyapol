@@ -5,6 +5,7 @@ My research interests include Data Science, Free Software with a focus on the GN
 Language Design, Computer and Network Security, Distributed Computing, Legal issues in computing.
 If you have an opening in a research group, please reach out to me: school (at) johnnyapol.me.
 
+## About Me
 
 - 🏫 Computer Science & Economics student @ Rensselaer Polytechnic Institute (RPI) - Graduating Fall 2021.
 - 💾  Firmware Technician @ Western Digital (eHDD)
