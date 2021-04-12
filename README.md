@@ -7,7 +7,8 @@ If you have an opening in a research group, please reach out to me: school (at) 
 
 ## About Me
 
-- 🏫 Computer Science & Economics student @ Rensselaer Polytechnic Institute (RPI) - Graduating Fall 2021.
+- 🏫 Computer Science & Economics student @ Rensselaer Polytechnic Institute (RPI)
+  - Graduating Fall 2021.
 - 💾  Firmware Technician @ Western Digital (eHDD)
 - 🎮  Developer & System Adminstrator @ https://torn.space
 - 👨‍💻  Fluent in Python, C, C++, Java, and Javascript
