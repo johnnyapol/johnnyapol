@@ -15,3 +15,7 @@ If you have an opening in a research group, please reach out to me: school (at) 
 - 💻  Linux
 
 Check out my [website](https://johnnyapol.me) and/or my [resume](https://johnnyapol.me/resume.pdf) if you've got some time.
+
+
+
+![](https://komarev.com/ghpvc/?username=johnnyapol&label=Visitor+#)
