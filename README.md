@@ -18,4 +18,4 @@ Check out my [website](https://johnnyapol.me) and/or my [resume](https://johnnya
 
 
 
-![](https://komarev.com/ghpvc/?username=johnnyapol&label=Visitor+#)
+![](https://komarev.com/ghpvc/?username=johnnyapol&label=Visitor+Counter)
