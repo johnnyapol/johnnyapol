@@ -7,11 +7,10 @@ If you have an opening in a research group, please reach out to me: school (at) 
 
 ## About Me
 
-- 🏫 Computer Science & Economics student @ Rensselaer Polytechnic Institute (RPI)
-  - Graduating Fall 2021.
 - 💾  Firmware Technician @ Western Digital (eHDD)
 - 🎮  Developer & System Adminstrator @ https://torn.space
 - 👨‍💻  Fluent in Python, C, C++, Java, and Javascript
+- 🎓  B.S. Computer Science & Economics, Rensselaer Polytechnic Institute (RPI) @RPISEC
 - 💻  Linux
 
 Check out my [website](https://johnnyapol.me) and/or my [resume](https://johnnyapol.me/resume.pdf) if you've got some time.
