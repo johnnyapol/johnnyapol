@@ -7,7 +7,7 @@ If you have an opening in a research group, please reach out to me: school (at) 
 
 ## About Me
 
-- 💾  Firmware Technician @ Western Digital (eHDD)
+- 💾  Senior Firwmare Engineer @ Western Digital (eHDD)
 - 🎮  Developer & System Adminstrator @ https://torn.space
 - 👨‍💻  Fluent in Python, C, C++, Java, and Javascript
 - 🎓  B.S. Computer Science & Economics, Rensselaer Polytechnic Institute (RPI)
