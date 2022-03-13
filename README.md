@@ -1,10 +1,5 @@
 ### Hello! 👋
 
-## I'm looking to do a research-based masters (or possibly PhD) in Computer Science.
-My research interests include Data Science, Free Software with a focus on the GNU/Linux desktop ecosystem, Programming
-Language Design, Computer and Network Security, Distributed Computing, Legal issues in computing.
-If you have an opening in a research group, please reach out to me: school (at) johnnyapol.me.
-
 ## About Me
 
 - 💾  Senior Firmware Engineer @ Western Digital (eHDD)
