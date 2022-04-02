@@ -9,6 +9,7 @@
 - 💻  Linux
 
 My [website](https://johnnyapol.me)
-My resume](https://johnnyapol.me/resume.pdf)
+
+My [resume](https://johnnyapol.me/resume.pdf)
 
 ![](https://komarev.com/ghpvc/?username=johnnyapol&label=Visitor+Counter)
