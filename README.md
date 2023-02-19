@@ -3,7 +3,6 @@
 ## About Me
 
 - 💾  Senior Firmware Engineer @ Western Digital (eHDD)
-- 🎮  Developer & System Adminstrator @ https://torn.space
 - 👨‍💻  Fluent in Python, C, C++, Java, and Javascript
 - 🎓  B.S. Computer Science & Economics, Rensselaer Polytechnic Institute (RPI)
 - 💻  Linux
