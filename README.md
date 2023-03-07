@@ -6,8 +6,6 @@
 - 🎓  B.S. Computer Science & Economics, Rensselaer Polytechnic Institute (RPI)
 - 💻  Linux
 
-My [website](https://johnnyapol.me)
-
 My [resume](https://github.com/johnnyapol/johnnyapol/raw/master/resume.pdf)
 
 ![](https://komarev.com/ghpvc/?username=johnnyapol&label=Visitor+Counter)
